@@ -72,4 +72,4 @@ If you would like to see the detailed LICENSE click [here](LICENSE).
 
 Please check GitHub list of contributors.
 
-[issues]: https://github.com/IBM/repo-template/issues/new
+[issues]: https://github.com/IBM/IMaC-startkit/issues
